@@ -5,7 +5,7 @@
 
 ## :chart_with_upwards_trend: Current Stats
 
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Md%20Rakibul%20Islam&theme=transparent&border_radius=5" alt="GitHub Streak" /></a></p>
+<p align="center"><a href="h"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rakib5627&theme=transparent" alt="GitHub Streak" /></a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib5627&show_icons=true&locale=en&layout=compact" alt="rakib5627" /></p>
 
@@ -35,6 +35,7 @@
 <!-- <a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fnb" height="30" width="40" /></a>
 
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fg" height="30" width="40" /></a> -->
+
 
 
 ## :computer: Languages and Tools
