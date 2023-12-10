@@ -1,5 +1,5 @@
 <a href="https://www.facebook.com/profile.php?id=100006542651486">
-<img src="" />
+<img src="/Assets/banner.png" />
 </a>
 
 
@@ -10,34 +10,33 @@
 
 
 
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Md%20Rakibul%20Islam&theme=one-dark-pro&border_radius=5" alt="GitHub Streak" /></a>
-
+<p align="center"><a href="h"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rakib5627&theme=black-ice" alt="GitHub Streak" /></a></p>
 
 
 - 🌱 I’m currently learning **Web development**
 
-- 👨‍💻 All of my projects are available at [linkkk](linkkk)
+<!-- - 👨‍💻 All of my projects are available at [linkkk](linkkk) -->
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **abddd@ab.com**
+- 📫 How to reach me **rakibul.29302@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ggg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ggg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linked in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked in" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/gfg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gfg" height="30" width="40" /></a>
-<a href="https://fb.com/fnb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fnb" height="30" width="40" /></a>
-<a href="https://instagram.com/fg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fg" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gg" height="30" width="40" /></a>
+## :mailbox: Connect With Me
+
+<p align="center">
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ggg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked in" height="30" width="40" /></a>
+
+<a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fnb" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fg" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,bootstrap,git" />
+    <img src="https://skillicons.dev/icons?i=html,html5,css,tailwind,bootstrap,js,reaxt,firebase,mongodb,vite,git,vscode" />
   </a>
 </p>
 
