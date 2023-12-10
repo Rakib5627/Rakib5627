@@ -14,9 +14,11 @@
 
 ## :eyes: Current overview
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning ** React.js, Node.js, Mongodb, Next.js**
 
-<!-- - 👨‍💻 All of my projects are available at [linkkk](linkkk) -->
+<!-- - 👨‍💻  -->
+
+- 🔭 Actively seeking job opportunities with strong foundation in front end web development.
 
 - 💬 Ask me about **React**
 
