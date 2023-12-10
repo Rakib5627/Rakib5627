@@ -3,6 +3,12 @@
 </a>
 <br/>
 
+
+<h1 align="center">Hi 👋, I'm Md Rakibul Islam</h1>
+<h3 align="center">I am a front-end web developer from Bangladesh.</h3>
+<h5 align="center">i am working with the technologies of html, css, tailwind, bootstrap, js, react.js, firebase, mongodb, vite, git, vscode</h5>
+
+
 ## :chart_with_upwards_trend: Current Stats
 
 <p align="center"><a href="h"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rakib5627&theme=transparent" alt="GitHub Streak" /></a></p>
@@ -14,7 +20,7 @@
 
 ## :eyes: Current overview
 
-- 🌱 I’m currently learning ** React.js, Node.js, Mongodb, Next.js**
+- 🌱 I’m currently learning ** React.js, Node.js, Mongodb, Next.js , Express.js**
 
 <!-- - 👨‍💻  -->
 
