@@ -1,7 +1,3 @@
-<a href="https://www.facebook.com/profile.php?id=100006542651486">
-<img src="/Assets/banner.png" />
-</a>
-<br/>
 
 
 <h1 align="center">Hi 👋, I'm Md Rakibul Islam</h1>
