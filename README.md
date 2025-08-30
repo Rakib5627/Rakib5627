@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Md Rakibul Islam (Rakib5627)</h1>
+<h1 align="center">Hi, I am Rakib5627</h1>
 <h3 align="center">An electrical engineer and a front-end web developer from Bangladesh.</h3>
 <h5 align="center">Working with the technologies of html, css, tailwind, bootstrap, js, react.js, firebase, mongodb, vite, git, vscode</h5>
 
