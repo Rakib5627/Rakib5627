@@ -1,8 +1,8 @@
 
 
-<h1 align="center">Hi 👋, I'm Md Rakibul Islam</h1>
-<h3 align="center">I am an electrical engineer and a front-end web developer from Bangladesh.</h3>
-<h5 align="center">i am working with the technologies of html, css, tailwind, bootstrap, js, react.js, firebase, mongodb, vite, git, vscode</h5>
+<h1 align="center">Md Rakibul Islam</h1>
+<h3 align="center">An electrical engineer and a front-end web developer from Bangladesh.</h3>
+<h5 align="center">Working with the technologies of html, css, tailwind, bootstrap, js, react.js, firebase, mongodb, vite, git, vscode</h5>
 
 
 ## :chart_with_upwards_trend: Current Stats
