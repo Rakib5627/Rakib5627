@@ -24,8 +24,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **rakibul.29302@gmail.com**
-- **rakibul.29302@gmail.com**
+- 📫 How to reach me **rakibul.29302@gmail.com** **https://github.com/Rakib5627**
 <br/>
 
 ## :mailbox: Connect With Me
